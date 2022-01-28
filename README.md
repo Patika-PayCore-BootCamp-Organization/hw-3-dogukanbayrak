@@ -1,18 +1,17 @@
 # hw-2-dogukanbayrak
 
 Homework
-1 – IOC and DI means ?
-2 – Spring Bean Scopes?
-3 – What does @SpringBootApplication do ?
-4 – What is Spring AOP? Where and How to use it?
-5 – What is Singleton and where to use it?
-6 – What is Spring Boot Actuator and Where to use it?
-7 -What is the primary difference between Spring and Spring Boot?
-8 – Why to use VCS?
-9 – What are SOLID Principles? Give sample usages in Java?
-10 - What is RAD model?
-11 - What is Spring Boot starter? How is it useful?
-12 – What is Caching? How can we achive caching in Spring Boot?
-13 – What & How & Where & Why to logging?
-14 - What is Swagger? Have you implemented it using Spring Boot?
-
+1 – SOAP vs Restful ? <br/>
+2 - Difference between acceptance test and functional test ? <br/>
+3 - What is Mocking ? <br/>
+4 - What is a reasonable code coverage % for unit tests (and why) ? <br/>
+5 – HTTP/POST vs HTTP/PUT ? <br/>
+6 - What are the Safe and Unsafe methods of HTTP ? <br/>
+7 - How does HTTP Basic Authentication work ? <br/>
+8 - Define RestTemplate in Spring ? <br/>
+9 – What is idempotant and which HTTP methods are idempotant ? <br/>
+10 – What is DNS Spoofing ? How to prevent ? <br/>
+11 – What is content negotiation ? <br/>
+12 – What is statelessness in RESTful Web Services ? <br/>
+13 - What is CSRF attack? How to prevent ? <br/>
+14 - What are the core components of the HTTP request and HTTP response ?
